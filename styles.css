@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+    font-size: 80 px;
+}
+h3.barbacoa {
+    color: purple;
+    font-weight: 40px;
+}
+
+h3 {
+    color: orange
+}
+p {
+    color:green;
+}
+
+img {
+    width:250px
+}
+
+ul li a {
+    color:black
+}
